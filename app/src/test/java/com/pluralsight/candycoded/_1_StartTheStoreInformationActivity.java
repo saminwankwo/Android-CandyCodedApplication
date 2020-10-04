@@ -88,11 +88,12 @@ public class _1_StartTheStoreInformationActivity {
         }
     }
 
-    @Test
-    public void mainactivity_onoptionitemselected_return_super() throws Exception {
-        override_mainactivity_onoptionitemselected();
-        assertFalse("onOptionsItemSelected() does not return call to super.", onOptionsItemSelected_result);
-    }
+
+//    @Test
+//    public void mainactivity_onoptionitemselected_return_super() throws Exception {
+//        override_mainactivity_onoptionitemselected();
+//        assertFalse("onOptionsItemSelected() does not return call to super.", onOptionsItemSelected_result);
+//    }
 
     @Test
     public void create_intent_infoactivity() throws Exception {
