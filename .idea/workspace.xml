@@ -10,10 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_1_StartTheStoreInformationActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,13 +173,27 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finish the store information activity excerise">
+      <created>1601854641169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601854641169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finish the store information activity excerise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish the store information activity excerise" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="515" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1601853724383">
+    <state x="515" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1601855046045">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state x="515" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/49.27.1317.741@49.27.1317.741" timestamp="1601853724383" />
+    <state x="515" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/49.27.1317.741@49.27.1317.741" timestamp="1601855046045" />
     <state x="548" y="289" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601690863306">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
@@ -197,22 +210,26 @@
       <screen x="49" y="27" width="1317" height="741" />
     </state>
     <state x="485" y="159" width="424" height="491" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1601690338734" />
-    <state width="1271" height="172" key="GridCell.Tab.0.bottom" timestamp="1601693045249">
+    <state width="1271" height="172" key="GridCell.Tab.0.bottom" timestamp="1601856411933">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="172" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1601693045249" />
-    <state width="1271" height="172" key="GridCell.Tab.0.center" timestamp="1601693045248">
+    <state width="1271" height="172" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1601856411933" />
+    <state width="1271" height="172" key="GridCell.Tab.0.center" timestamp="1601856411932">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="172" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1601693045248" />
-    <state width="1271" height="172" key="GridCell.Tab.0.left" timestamp="1601693045247">
+    <state width="1271" height="172" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1601856411932" />
+    <state width="1271" height="172" key="GridCell.Tab.0.left" timestamp="1601856411931">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="172" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1601693045247" />
-    <state width="1271" height="172" key="GridCell.Tab.0.right" timestamp="1601693045248">
+    <state width="1271" height="172" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1601856411931" />
+    <state width="1271" height="172" key="GridCell.Tab.0.right" timestamp="1601856411932">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
-    <state width="1271" height="172" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1601693045248" />
+    <state width="1271" height="172" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1601856411932" />
+    <state x="302" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601854761585">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="302" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/49.27.1317.741@49.27.1317.741" timestamp="1601854761585" />
     <state x="363" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1601852932447">
       <screen x="49" y="27" width="1317" height="741" />
     </state>
